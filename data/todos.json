@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mccmdrllhb2w5qrft9b",
+    "text": "Мировое господство",
+    "completed": false,
+    "createdAt": "2025-06-26T00:03:06.105Z",
+    "isExtended": false,
+    "location": null,
+    "time": null,
+    "deadline": null,
+    "notes": null
+  },
+  {
+    "id": "mccmey4t8s2xymacuy",
+    "text": "Смешные картинки с котятами",
+    "completed": true,
+    "createdAt": "2025-06-26T00:04:01.229Z",
+    "isExtended": false,
+    "location": null,
+    "time": null,
+    "deadline": null,
+    "notes": null,
+    "updatedAt": "2025-06-26T00:04:08.669Z"
+  },
+  {
+    "id": "mcduz98d43jjms3k08p",
+    "text": "Сходить в магаз",
+    "completed": true,
+    "createdAt": "2025-06-26T20:51:31.837Z",
+    "isExtended": false,
+    "location": null,
+    "time": null,
+    "deadline": null,
+    "notes": null,
+    "updatedAt": "2025-06-26T20:52:10.092Z"
+  },
+  {
+    "id": "mcduzdbim0bi48ymmeg",
+    "text": "Покушать",
+    "completed": true,
+    "createdAt": "2025-06-26T20:51:37.134Z",
+    "isExtended": false,
+    "location": null,
+    "time": null,
+    "deadline": null,
+    "notes": null,
+    "updatedAt": "2025-06-26T20:51:55.966Z"
+  },
+  {
+    "id": "mcduzielj2gw8il7mrm",
+    "text": "Покушать ещё раз",
+    "completed": false,
+    "createdAt": "2025-06-26T20:51:43.725Z",
+    "isExtended": false,
+    "location": null,
+    "time": null,
+    "deadline": null,
+    "notes": null
+  },
+  {
+    "id": "mcduzqcf16gx3eut4w",
+    "text": "Закрыть практику в унике",
+    "completed": true,
+    "createdAt": "2025-06-26T20:51:54.015Z",
+    "isExtended": false,
+    "location": null,
+    "time": null,
+    "deadline": null,
+    "notes": null,
+    "updatedAt": "2025-06-26T20:52:06.590Z"
+  }
+]
