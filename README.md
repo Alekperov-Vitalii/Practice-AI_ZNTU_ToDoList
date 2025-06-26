@@ -127,10 +127,6 @@ For development with auto-restart on file changes:
 npm run dev
 ```
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
