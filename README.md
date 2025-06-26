@@ -2,6 +2,8 @@
 
 A modern, full-stack ToDo List application built with Node.js, Express, and Tailwind CSS. Tasks are stored server-side in a JSON file, providing persistence across sessions.
 
+**Repository**: [Practice-AI_ZNTU_ToDoList](https://github.com/Alekperov-Vitalii/Practice-AI_ZNTU_ToDoList)
+
 ## ✨ Features
 
 - **Add Tasks**: Create new tasks with a clean, intuitive interface
@@ -23,10 +25,10 @@ A modern, full-stack ToDo List application built with Node.js, Express, and Tail
 
 ### Installation
 
-1. **Clone or download the project**
+1. **Clone the repository**
    ```bash
-   # If you have the files locally, navigate to the project directory
-   cd ToDoList_AI_ZNTU-FreshCode
+   git clone https://github.com/Alekperov-Vitalii/Practice-AI_ZNTU_ToDoList.git
+   cd Practice-AI_ZNTU_ToDoList
    ```
 
 2. **Install dependencies**
@@ -44,15 +46,16 @@ A modern, full-stack ToDo List application built with Node.js, Express, and Tail
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:3000`
+   Navigate to `http://localhost:3003`
 
 ## 📁 Project Structure
 
 ```
-ToDoList_AI_ZNTU-FreshCode/
+Practice-AI_ZNTU_ToDoList/
 ├── server.js              # Main server file with Express setup
 ├── package.json           # Project dependencies and scripts
 ├── README.md             # This file
+├── .gitignore            # Git ignore rules
 ├── public/               # Frontend files
 │   ├── index.html        # Main HTML page
 │   └── app.js           # Frontend JavaScript
@@ -94,7 +97,7 @@ The application provides a RESTful API for managing todos:
 ### Changing the Port
 Edit `server.js` and modify the PORT variable:
 ```javascript
-const PORT = process.env.PORT || 3000; // Change 3000 to your preferred port
+const PORT = process.env.PORT || 3003; // Change 3003 to your preferred port
 ```
 
 ### Database Integration
@@ -112,7 +115,7 @@ The application uses Tailwind CSS. You can customize the design by modifying the
 
 2. **Cannot access the application**
    - Ensure the server is running (`npm start`)
-   - Check that you're accessing `http://localhost:3000`
+   - Check that you're accessing `http://localhost:3003`
 
 3. **Tasks not saving**
    - Check that the `data` directory has write permissions
@@ -134,4 +137,4 @@ Feel free to submit issues and enhancement requests!
 
 ---
 
-**Built with ❤️ using Node.js, Express, and Tailwind CSS** 
+**Built with ❤️ using Node.js, Express, and Tailwind CSS**
